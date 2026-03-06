@@ -7,7 +7,7 @@ import {
 import { SEC_PER_DAY } from '../../src/constants/commons';
 
 describe('Duration', () => {
-    const mockedTGETimestamp = 1669207921;
+    const mockedTGETimestamp = 1703948231;
     const cliff = SEC_PER_DAY;
     const terms = SEC_PER_DAY;
     const duration = 1;
